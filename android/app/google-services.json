@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176790188634",
+    "project_id": "recycleapp-b5179",
+    "storage_bucket": "recycleapp-b5179.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176790188634:android:1cfd8cfc287fd69c455e63",
+        "android_client_info": {
+          "package_name": "com.example.recycle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgZoMOzSg6TYPi2amKW6SXwaIuIcTduE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
